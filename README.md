@@ -83,3 +83,47 @@ data or control signals in both directions, but not at the
 same time, as shown in Figure 11.4. While one device is
 sending data, the other one will receive and vice-versa. It
 is like sharing a one-way narrow bridge among vehicles 
+The computers can be classified into various categories as given below:
+ Micro Computer
+ Laptop Computer
+ Work Station
+ Super Computer
+ Main Frame
+ Hand Held
+ Multi core
+Micro Computer: A personal computer; designed to meet the computer needs of an
+individual. Provides access to a wide variety of computing applications, such as word
+processing, photo editing, e-mail, and internet.
+Laptop Computer: A portable, compact computer that can run on power supply or a battery
+unit. All components are integrated as one compact unit. It is generally more expensive than a
+comparable desktop. It is also called a Notebook.
+Work Station: Powerful desktop computer designed for specialized tasks. Generally used for
+tasks that requires a lot of processing speed. Can also be an ordinary personal computer
+attached to a LAN (local area network).
+Super Computer: A computer that is considered to be fastest in the world. Used to execute
+tasks that would take lot of time for other computers. For Ex: Modeling weather systems,
+genome sequence, etc (Refer site: http://www.top500.org/)
+Main Frame: Large expensive computer capable of simultaneously processing data for
+hundreds or thousands of users. Used to store, manage, and process large amounts of data that
+need to be reliable, secure, and centralized.
+Hand Held: It is also called a PDA (Personal Digital Assistant). A computer that fits into a
+pocket, runs on batteries, and is used while holding the unit in your hand. Typically used as
+an appointment book, address book, calculator and notepad.
+Multi Core: Have Multiple Cores – parallel computing platforms. Many Cores or computing
+elements in a single chip. Typical Examples: Sony Play station, Core 2 Duo, i3, i7 etc.
+GENERATION OF COMPUTERS
+Development of technologies used to fabricate the processors, memories and I/O units of
+the computers has been divided into various generations as given below:
+ First generation
+ Second generation
+ Third generation
+ Fourth generation
+ Beyond the fourth generation
+Computer Organization [IT II – I ]
+Computer Organization Page 3
+First generation:
+1946 to 1955: Computers of this generation used Vacuum Tubes. The computes were built using
+stored program concept. Ex: ENIAC, EDSAC, IBM 701.
+Computers of this age typically used about ten thousand vacuum tubes. They were bulky in
+size had slow operating speed, short life time and limited programming facilities.
+
